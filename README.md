@@ -4,7 +4,7 @@
 My name is Young Jin Choi (I go by Young) and I'm a second-year MPP student interested in social and economic equity.
 
 ## Course Description
-The goal for this course is to expose you to the foundations of spatial data science. How can data be transformed into human expressions and narratives, and how can these be represented spatially? Our understanding of social phenomena through spatial constructs in urban data allows us to address location-based questions on social justice, the environment, transportation, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
+This will be my first exposure to spatial data science. I'm interested in transforming data into "human expressions and narratives" and representing them spatially though visualization. I'm also interested in learning about location-based issues of social and economic equity, impacts of climate change, community development and design, etc. and gaining the skills to visually illuminate such issues for public understanding and policy change.
 
 ## Project Ideas
 - Spatial visualization of racial wealth gap in CA
