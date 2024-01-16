@@ -1,4 +1,5 @@
 # up221-young
+This is Young Jin Choi's repository for Winter Quarter 2024, UP221
 
 ## Profile
 My name is Young Jin Choi (I go by Young) and I'm a second-year MPP student interested in social and economic equity.
