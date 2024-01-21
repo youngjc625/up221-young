@@ -2,7 +2,7 @@
 This is Young Jin Choi's repository for Winter Quarter 2024, UP221
 
 ## Profile
-My name is Young Jin Choi (I go by Young) and I'm a second-year MPP student interested in social equity and economic justice. I like to work out, travel, and share good food with friends.
+My name is Young Jin Choi (I go by Young) and I'm a second-year MPP student interested in social equity and economic justice. I like to work out, travel, and share good food & drinks with good company.
 
 ![alt text](https://github.com/youngjc625/up221-young/blob/main/IMG_0520%20Medium.jpeg "Wiliwilinui Ridge Trail in Oahu")
 
