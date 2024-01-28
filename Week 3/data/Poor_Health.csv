@@ -1,0 +1,211 @@
+﻿OBJECTID,Geo_ID,Geo_Type,Geo_Name,Poor_health,Poor_health_LCL,Poor_health_UCL,Poor_health_RSE,Poor_health_EST,SHAPE_Length,SHAPE_Area
+1,csa_city_agoura_hills,Incorporated City,City of Agoura Hills,,,,,,80376.2106904135,217931682.647763
+2,csa_city_alhambra,Incorporated City,City of Alhambra,14.9,12.3,17.5,8.8219016834776,small area estimate,69016.5015221541,212764011.290309
+3,csa_city_arcadia,Incorporated City,City of Arcadia,11.2,9.3,13.2,8.93839446931042,small area estimate,132149.401562509,309696288.929814
+4,csa_city_artesia,Incorporated City,City of Artesia,,,,,,40904.9706551111,45210326.1260098
+5,csa_city_azusa,Incorporated City,City of Azusa,14.3,12.1,16.5,7.78525256009525,small area estimate,158881.601593077,269205013.023516
+6,csa_city_baldwin_park,Incorporated City,City of Baldwin Park,15.5,13.1,17.9,8.03144819219292,small area estimate,87241.4327414295,188966247.646703
+7,csa_city_bell,Incorporated City,City of Bell,17.2,14,20.5,9.50715112433141,small area estimate,65552.3887578531,72979028.1605801
+8,csa_city_bell_gardens,Incorporated City,City of Bell Gardens,17.8,14.5,21.1,9.5032637792313,small area estimate,38937.4207874778,68721941.4450139
+9,csa_city_bellflower,Incorporated City,City of Bellflower,12.2,9.9,14.5,9.51738321317745,small area estimate,59306.6452245536,172370845.870059
+10,csa_city_beverly_hills,Incorporated City,City of Beverly Hills,6.2,4.5,7.9,13.9172374819864,small area estimate,86925.7745809394,159282318.737776
+11,csa_city_burbank,Incorporated City,City of Burbank,10.1,7.9,12.3,11.1425598880085,small area estimate,102151.39667723,483502845.636738
+12,csa_city_calabasas,Incorporated City,City of Calabasas,5.7,3.8,7.5,16.5194742343716,small area estimate,149118.59294743,383613659.700805
+13,csa_city_carson,Incorporated City,City of Carson,10.3,7.8,12.7,12.1578174342906,small area estimate,127677.51129757,528030737.770321
+14,csa_city_cerritos,Incorporated City,City of Cerritos,8,5.8,10.3,14.3600567443624,small area estimate,119808.868298614,246787948.416372
+15,csa_city_claremont,Incorporated City,City of Claremont,7.6,6.1,9.2,10.4278615517322,small area estimate,150112.20427125,375456745.789203
+16,csa_city_commerce,Incorporated City,City of Commerce,,,,,,93390.8122905833,182719725.127801
+17,csa_city_compton,Incorporated City,City of Compton,13.9,11,16.9,10.7747889119446,small area estimate,178008.102450657,281590253.832498
+18,csa_city_covina,Incorporated City,City of Covina,12.5,10.6,14.5,7.86711250488221,small area estimate,186251.134749508,196344691.891492
+19,csa_city_cudahy,Incorporated City,City of Cudahy,18.8,15.3,22.3,9.39525643066101,small area estimate,33729.8352374175,34266752.8019473
+20,csa_city_culver_city,Incorporated City,City of Culver City,6.8,4.8,8.7,14.6331935404376,small area estimate,116908.970645141,143147615.002315
+21,csa_city_downey,Incorporated City,City of Downey,10.2,8.1,12.2,10.2326790308745,small area estimate,90498.3366118424,350371541.490197
+22,csa_city_duarte,Incorporated City,City of Duarte,12.7,10.7,14.6,7.88912046916396,small area estimate,111724.016609402,186485252.140027
+23,csa_city_el_monte,Incorporated City,City of El Monte,19.9,16.9,23,7.75450169342967,small area estimate,106711.549443553,268040254.83978
+24,csa_city_el_segundo,Incorporated City,City of El Segundo,,,,,,58347.6116957506,-151854294.433911
+25,csa_city_gardena,Incorporated City,City of Gardena,14.4,11.6,17.2,9.87245882930799,small area estimate,65932.3950959737,163264681.762714
+26,csa_city_glendale,Incorporated City,City of Glendale,11.9,9.1,14.7,11.9847984224852,small area estimate,190271.343931609,853230755.386185
+27,csa_city_glendora,Incorporated City,City of Glendora,10.3,8.5,12.1,8.96664159817867,small area estimate,165505.670654358,547642777.479167
+28,csa_city_hawaiian_gardens,Incorporated City,City of Hawaiian Gardens,,,,,,25783.8794644506,26648816.5457622
+29,csa_city_hawthorne,Incorporated City,City of Hawthorne,14,11.3,16.7,9.86192904034661,small area estimate,110192.664599746,169585593.318254
+30,csa_city_hermosa_beach,Incorporated City,City of Hermosa Beach,,,,,,29339.6193505165,-41501765.1410945
+31,csa_city_hidden_hills,Incorporated City,City of Hidden Hills,,,,,,42751.6546627266,47048725.824076
+32,csa_city_huntington_park,Incorporated City,City of Huntington Park,20.1,16.3,24,9.75082142431722,small area estimate,66385.785321566,84042752.634136
+33,csa_city_industry,Incorporated City,City of Industry,,,,,,366510.398353747,335602039.205767
+34,csa_city_inglewood,Incorporated City,City of Inglewood,13.3,10.7,15.9,9.94796801687987,small area estimate,90355.3942257997,253622393.68932
+35,csa_city_irwindale,Incorporated City,City of Irwindale,,,,,,131459.742848379,268552437.941906
+36,csa_city_la_canada_flintridge,Incorporated City,City of La Canada Flintridge,,,,,,92225.3470752999,241080484.796513
+37,csa_city_la_habra_heights,Incorporated City,City of La Habra Heights,,,,,,69877.1472887861,171717013.597821
+38,csa_city_la_mirada,Incorporated City,City of La Mirada,9.9,7.5,12.4,12.6335986922832,small area estimate,79833.8296120329,218800624.39489
+39,csa_city_la_puente,Incorporated City,City of La Puente,14,11.5,16.6,9.30122259094411,small area estimate,86971.3574392473,96842502.297687
+40,csa_city_la_verne,Incorporated City,City of La Verne,11,9,13,9.16903016857378,small area estimate,115480.591496627,237606827.324603
+41,csa_city_lakewood,Incorporated City,City of Lakewood,8.2,6.2,10.2,12.3658331343728,small area estimate,124207.331738587,263528890.172463
+42,csa_city_lancaster,Incorporated City,City of Lancaster,15.7,12.1,19.3,11.8018573265879,small area estimate,678436.664903309,2635029511.78662
+43,csa_city_lawndale,Incorporated City,City of Lawndale,11.3,9.1,13.5,9.96698507476626,small area estimate,36899.7304205015,54863707.069597
+44,csa_city_lomita,Incorporated City,City of Lomita,10.5,8.3,12.7,10.5611867716854,small area estimate,44939.4236054767,-53484538.8264352
+45,csa_city_long_beach,Incorporated City,City of Long Beach,12.7,10.3,15.1,9.58478815454426,small area estimate,554574.211561498,-1443459669.66712
+46,csa_city_lynwood,Incorporated City,City of Lynwood,13.8,11,16.7,10.4219831164172,small area estimate,72152.7827898819,135007235.461113
+47,csa_city_manhattan_beach,Incorporated City,City of Manhattan Beach,3.8,2,5.5,23.7961604623529,small area estimate,48539.7715424029,-110933646.879679
+48,csa_city_maywood,Incorporated City,City of Maywood,18.4,15,21.8,9.38074329343807,small area estimate,30088.7702755113,32839986.2056024
+49,csa_city_montebello,Incorporated City,City of Montebello,12.1,9.6,14.5,10.3086684258592,small area estimate,99397.639077026,233323960.392811
+50,csa_city_monterey_park,Incorporated City,City of Monterey Park,16.8,14.1,19.5,8.20133234041916,small area estimate,79691.1679475831,215688665.197958
+51,csa_city_norwalk,Incorporated City,City of Norwalk,11.2,8.9,13.6,10.6071444732174,small area estimate,91643.1010271711,272018552.80806
+52,csa_city_palmdale,Incorporated City,City of Palmdale,14.3,10.9,17.8,12.1319579226337,small area estimate,682806.060207971,2962799242.76502
+53,csa_city_paramount,Incorporated City,City of Paramount,12.6,10.1,15,9.99289986335603,small area estimate,67994.9459555497,134398499.359609
+54,csa_city_pasadena,Incorporated City,City of Pasadena,12.1,9.8,14.4,9.73982264597859,small area estimate,282711.360879147,644879965.85772
+55,csa_city_pico_rivera,Incorporated City,City of Pico Rivera,12,9.4,14.7,11.2877161884864,small area estimate,95367.7009761028,248180730.471449
+56,csa_city_redondo_beach,Incorporated City,City of Redondo Beach,6.2,4.4,8,14.5745790905489,small area estimate,103678.683548515,-173842324.04397
+57,csa_city_rosemead,Incorporated City,City of Rosemead,17.6,14.7,20.5,8.33754944989735,small area estimate,94495.0868413355,144217751.422132
+58,csa_city_san_dimas,Incorporated City,City of San Dimas,10.9,9,12.8,8.74705240170668,small area estimate,170632.370385882,429685883.243696
+59,csa_city_san_fernando,Incorporated City,City of San Fernando,12.9,9.7,16,12.6090136385428,small area estimate,36548.9232927347,66108330.457373
+60,csa_city_san_gabriel,Incorporated City,City of San Gabriel,16.3,13.6,19,8.32861679695566,small area estimate,96451.8961334471,115211437.158198
+61,csa_city_san_marino,Incorporated City,City of San Marino,,,,,,56678.5792910711,105008644.926856
+62,csa_city_santa_clarita,Incorporated City,City of Santa Clarita,8.2,6.4,10,11.2456433709747,small area estimate,401512.902907606,2053437651.50045
+63,csa_city_santa_fe_springs,Incorporated City,City of Santa Fe Springs,,,,,,157552.590868578,247463254.183778
+64,csa_city_santa_monica,Incorporated City,City of Santa Monica,6.5,4.7,8.3,13.9494716356296,small area estimate,65949.9838682261,-237691986.486453
+65,csa_city_sierra_madre,Incorporated City,City of Sierra Madre,,,,,,40140.5976967932,82433009.1663505
+66,csa_city_signal_hill,Incorporated City,City of Signal Hill,,,,,,56519.1707093737,61065731.168102
+67,csa_city_south_el_monte,Incorporated City,City of South El Monte,,,,,,61966.3504621843,79448691.794523
+68,csa_city_south_gate,Incorporated City,City of South Gate,14.8,12.2,17.3,8.75380397994986,small area estimate,102610.733571485,204975048.56434
+69,csa_city_south_pasadena,Incorporated City,City of South Pasadena,9,6.6,11.4,13.7242724974948,small area estimate,43466.7834242171,95187401.2488664
+70,csa_city_temple_city,Incorporated City,City of Temple City,13.2,11,15.3,8.28998525789593,small area estimate,60506.140608474,112232462.707712
+71,csa_city_torrance,Incorporated City,City of Torrance,9,7.1,11,10.9428102671425,small area estimate,140225.611106125,-573283827.676473
+72,csa_city_vernon,Incorporated City,City of Vernon,,,,,,84910.4497540591,143639793.232798
+73,csa_city_walnut,Incorporated City,City of Walnut,9.9,7.7,12,11.1629004749474,small area estimate,91589.5513506837,250361037.089548
+74,csa_city_west_covina,Incorporated City,City of West Covina,12.1,10.3,14,7.89722325401354,small area estimate,204531.260436844,447990104.165071
+75,csa_city_west_hollywood,Incorporated City,City of West Hollywood,9.7,7.2,12.2,13.2496628399047,small area estimate,57010.5752208897,52835243.7705194
+76,csa_city_westlake_village,Incorporated City,City of Westlake Village,,,,,,64466.7772420733,153379909.532517
+77,csa_city_whittier,Incorporated City,City of Whittier,10.9,8.8,13,9.91158793555292,small area estimate,163420.36224751,408726582.394508
+78,csa_city_bradbury,Incorporated City,City of Bradbury,,,,,,38934.9806514622,54647076.6465529
+79,csa_city_monrovia,Incorporated City,City of Monrovia,12,10,14,8.44426655259663,small area estimate,144169.025714183,382542678.913578
+80,csa_city_diamond_bar,Incorporated City,City of Diamond Bar,11.6,9.3,13.8,9.856704242416,small area estimate,110699.235551545,414908041.413646
+81,csa_city_pomona,Incorporated City,City of Pomona,16.3,13.8,18.8,7.74032126976368,small area estimate,163087.713550421,640980605.083551
+82,csa_city_rancho_palos_verdes,Incorporated City,City of Rancho Palos Verdes,4.9,3,6.8,19.9504163719068,small area estimate,206645.359067016,-376913902.893686
+83,csa_city_avalon,Incorporated City,City of Avalon,,,,,,57467.5745584495,80339329.7002425
+84,csa_city_rolling_hills_estates,Incorporated City,City of Rolling Hills Estates,,,,,,122697.384104138,-100255529.196378
+85,csa_city_rolling_hills,Incorporated City,City of Rolling Hills,,,,,,48172.7995997126,-83379640.9667255
+86,csa_city_palos_verdes_estates,Incorporated City,City of Palos Verdes Estates,,,,,,72485.9946205769,-133376180.071599
+87,csa_city_malibu,Incorporated City,City of Malibu,,,,,,251806.960922499,-549214512.374272
+227,csa_unincorp_acton,Unincorporated Los Angeles County,Unincorporated - Acton,,,,,,246388.957293646,1747931376.65934
+228,csa_unincorp_agua_dulce,Unincorporated Los Angeles County,Unincorporated - Agua Dulce,,,,,,217245.864727199,1195019279.48519
+229,csa_unincorp_altadena,Unincorporated Los Angeles County,Unincorporated - Altadena,10,8,11.9,9.80683573957054,small area estimate,97879.6252956227,244123866.739716
+230,csa_unincorp_anaverde,Unincorporated Los Angeles County,Unincorporated - Anaverde,,,,,,97356.260136562,330519637.813828
+231,csa_unincorp_angeles_national_forest,Unincorporated Los Angeles County,Unincorporated - Angeles National Forest,,,,,,949856.800197246,19267413571.9291
+232,csa_unincorp_arcadia,Unincorporated Los Angeles County,Unincorporated - Arcadia,,,,,,35960.6401911944,25328675.9454039
+233,csa_unincorp_athens_westmont,Unincorporated Los Angeles County,Unincorporated - Athens-Westmont,16.7,13.3,20.2,10.5392571808781,small area estimate,55016.8206733926,88748915.7415194
+234,csa_unincorp_athens_village,Unincorporated Los Angeles County,Unincorporated - Athens Village,,,,,,15767.0685987267,12568701.3495636
+235,csa_unincorp_avocado_heights,Unincorporated Los Angeles County,Unincorporated - Avocado Heights,,,,,,56792.5529476054,34588444.8599533
+236,csa_unincorp_azusa,Unincorporated Los Angeles County,Unincorporated - Azusa,,,,,,95317.7076229732,43848427.7131333
+237,csa_unincorp_bandini_islands,Unincorporated Los Angeles County,Unincorporated - Bandini Islands,,,,,,12372.9201273573,1337333.3122715
+238,csa_unincorp_bassett,Unincorporated Los Angeles County,Unincorporated - Bassett,,,,,,49744.9076505034,34401641.2806318
+239,csa_unincorp_bouquet_canyon,Unincorporated Los Angeles County,Unincorporated - Bouquet Canyon,,,,,,167396.180342317,778146145.939745
+240,csa_unincorp_bradbury,Unincorporated Los Angeles County,Unincorporated - Bradbury,,,,,,4085.33544644886,822758.620164294
+241,csa_unincorp_canyon_country,Unincorporated Los Angeles County,Unincorporated - Canyon Country,,,,,,101506.324186141,165276723.890575
+242,csa_unincorp_castaic,Unincorporated Los Angeles County,Unincorporated - Castaic,5.7,4.1,7.2,14.3149795030415,small area estimate,578909.092770396,8423094459.50704
+243,csa_unincorp_cerritos,Unincorporated Los Angeles County,Unincorporated - Cerritos,,,,,,3993.15688733921,843088.775233932
+244,csa_unincorp_charter_oak,Unincorporated Los Angeles County,Unincorporated - Charter Oak,,,,,,4334.04056142728,308383.705786278
+245,csa_unincorp_claremont,Unincorporated Los Angeles County,Unincorporated - Claremont,,,,,,48271.319512978,27888892.7813991
+246,csa_unincorp_covina,Unincorporated Los Angeles County,Unincorporated - Covina,,,,,,128155.360030697,107495631.325268
+247,csa_unincorp_covina,Unincorporated Los Angeles County,Unincorporated - Covina (Charter Oak),,,,,,100016.701850393,36590585.0493809
+248,csa_unincorp_del_aire,Unincorporated Los Angeles County,Unincorporated - Del Aire,,,,,,17350.9932025628,-15439994.7821286
+249,csa_unincorp_del_rey,Unincorporated Los Angeles County,Unincorporated - Del Rey,,,,,,5303.65531899047,1353153.92503327
+250,csa_unincorp_del_sur,Unincorporated Los Angeles County,Unincorporated - Del Sur,,,,,,360761.774096923,947241620.176497
+251,csa_unincorp_desert_view_highlands,Unincorporated Los Angeles County,Unincorporated - Desert View Highlands,,,,,,24357.6833723938,12359061.3170099
+252,csa_unincorp_duarte,Unincorporated Los Angeles County,Unincorporated - Duarte,,,,,,15381.6031366308,9844019.62210248
+253,csa_unincorp_east_covina,Unincorporated Los Angeles County,Unincorporated - East Covina,,,,,,22627.0163018047,10429326.6557258
+254,csa_unincorp_east_la_mirada,Unincorporated Los Angeles County,Unincorporated - East La Mirada,,,,,,19143.1397055579,18015709.7013562
+255,csa_unincorp_east_lancaster,Unincorporated Los Angeles County,Unincorporated - East Lancaster,,,,,,111434.572503056,90886831.0769311
+256,csa_unincorp_east_los_angeles,Unincorporated Los Angeles County,Unincorporated - East Los Angeles,16.4,13.7,19.1,8.36339363203642,small area estimate,87336.86870756,207445964.927646
+257,csa_unincorp_east_rancho_dominguez,Unincorporated Los Angeles County,Unincorporated - East Rancho Dominguez,,,,,,49789.9886086099,23018840.3451003
+258,csa_unincorp_east_whittier,Unincorporated Los Angeles County,Unincorporated - East Whittier,,,,,,15638.1515901259,12561807.7607098
+259,csa_unincorp_el_camino_village,Unincorporated Los Angeles County,Unincorporated - El Camino Village,,,,,,26619.1945584592,31861072.8073174
+260,csa_unincorp_el_monte,Unincorporated Los Angeles County,Unincorporated - El Monte,,,,,,1635.05912632656,109350.885568643
+261,csa_unincorp_elizabeth_lake,Unincorporated Los Angeles County,Unincorporated - Elizabeth Lake,,,,,,100368.443762716,248389615.942832
+262,csa_unincorp_florence_firestone,Unincorporated Los Angeles County,Unincorporated - Florence-Firestone,18.5,15.4,21.6,8.62103295223064,small area estimate,54670.8460835291,97260637.4081489
+263,csa_unincorp_franklin_canyon,Unincorporated Los Angeles County,Unincorporated - Franklin Canyon,,,,,,11132.2704172541,4942249.85359817
+264,csa_unincorp_glendora,Unincorporated Los Angeles County,Unincorporated - Glendora,,,,,,47075.339322699,15542272.9706407
+265,csa_unincorp_hacienda_heights,Unincorporated Los Angeles County,Unincorporated - Hacienda Heights,12.3,10,14.6,9.3975522819636,small area estimate,101920.804118833,338789855.445357
+266,csa_unincorp_harbor_gateway,Unincorporated Los Angeles County,Unincorporated - Harbor Gateway,,,,,,9192.38892952788,2500538.35700475
+267,csa_unincorp_hawthorne,Unincorporated Los Angeles County,Unincorporated - Hawthorne,,,,,,8004.29997795382,3321496.17786695
+268,csa_unincorp_hi_vista,Unincorporated Los Angeles County,Unincorporated - Hi Vista,,,,,,321199.955241175,4743128968.13855
+269,csa_unincorp_kagel_lopez_canyons,Unincorporated Los Angeles County,Unincorporated - Kagel/Lopez Canyons,,,,,,139605.486135522,243850946.697947
+270,csa_unincorp_la_crescenta_montrose,Unincorporated Los Angeles County,Unincorporated - La Crescenta-Montrose,,,,,,55629.8279826492,95896575.543854
+271,csa_unincorp_la_habra_heights,Unincorporated Los Angeles County,Unincorporated - La Habra Heights,,,,,,9340.18656914597,4152122.30053719
+272,csa_unincorp_la_verne,Unincorporated Los Angeles County,Unincorporated - La Verne,,,,,,75255.2992745316,84920564.3097584
+273,csa_unincorp_ladera_heights,Unincorporated Los Angeles County,Unincorporated - Ladera Heights,,,,,,61773.0647226062,82401547.1986861
+274,csa_unincorp_lake_hughes,Unincorporated Los Angeles County,Unincorporated - Lake Hughes,,,,,,107739.515751555,266405309.820079
+275,csa_unincorp_lake_los_angeles,Unincorporated Los Angeles County,Unincorporated - Lake Los Angeles,,,,,,187364.140746182,1265822944.89967
+276,csa_unincorp_lake_manor,Unincorporated Los Angeles County,Unincorporated - Lake Manor,,,,,,28934.026117306,15266439.7126058
+277,csa_unincorp_lakewood,Unincorporated Los Angeles County,Unincorporated - Lakewood,,,,,,5929.33736909703,985687.800982605
+278,csa_unincorp_leona_valley,Unincorporated Los Angeles County,Unincorporated - Leona Valley,,,,,,185562.619741072,615796163.464464
+279,csa_unincorp_littlerock,Unincorporated Los Angeles County,Unincorporated - Littlerock,,,,,,49434.0117011061,93685477.9463841
+280,csa_unincorp_littlerock_juniper_hills,Unincorporated Los Angeles County,Unincorporated - Littlerock/Juniper Hills,,,,,,196965.29821152,981372321.236777
+281,csa_unincorp_littlerock_pearblossom,Unincorporated Los Angeles County,Unincorporated - Littlerock/Pearblossom,,,,,,125688.521011764,687633163.345279
+282,csa_unincorp_llano,Unincorporated Los Angeles County,Unincorporated - Llano,,,,,,236007.867255712,2582397412.99533
+283,csa_unincorp_long_beach,Unincorporated Los Angeles County,Unincorporated - Long Beach,,,,,,10834.9578869183,4117995.14314565
+284,csa_unincorp_lynwood,Unincorporated Los Angeles County,Unincorporated - Lynwood,,,,,,10655.1387845338,3631735.6956953
+285,csa_unincorp_miracle_mile,Unincorporated Los Angeles County,Unincorporated - Miracle Mile,,,,,,760.000029003488,27999.9208069311
+286,csa_unincorp_monrovia,Unincorporated Los Angeles County,Unincorporated - Monrovia,,,,,,23813.6155826891,11228348.3596397
+287,csa_unincorp_newhall,Unincorporated Los Angeles County,Unincorporated - Newhall,,,,,,37297.2695467117,35923948.8954066
+288,csa_unincorp_north_lancaster,Unincorporated Los Angeles County,Unincorporated - North Lancaster,,,,,,218775.146794741,1263909603.94866
+289,csa_unincorp_north_whittier,Unincorporated Los Angeles County,Unincorporated - North Whittier,,,,,,35228.67956128,35900925.1494807
+290,csa_unincorp_northeast_san_gabriel,Unincorporated Los Angeles County,Unincorporated - Northeast San Gabriel,12.8,10.8,14.9,8.1318595874183,small area estimate,87875.4593397757,61103908.2914697
+291,csa_unincorp_padua_hills,Unincorporated Los Angeles County,Unincorporated - Padua Hills,,,,,,9409.51568340406,2075939.84647972
+292,csa_unincorp_palmdale,Unincorporated Los Angeles County,Unincorporated - Palmdale,,,,,,164933.718605305,733069233.013868
+293,csa_unincorp_pearblossom_llano,Unincorporated Los Angeles County,Unincorporated - Pearblossom/Llano,,,,,,116529.498865869,462365546.167629
+294,csa_unincorp_pellissier_village,Unincorporated Los Angeles County,Unincorporated - Pellissier Village,,,,,,15692.3790954158,8793112.55553585
+295,csa_unincorp_placerita_canyon,Unincorporated Los Angeles County,Unincorporated - Placerita Canyon,,,,,,38416.7207712096,47991908.6254634
+296,csa_unincorp_pomona,Unincorporated Los Angeles County,Unincorporated - Pomona,,,,,,42540.5502645391,32847646.0850377
+297,csa_unincorp_quartz_hill,Unincorporated Los Angeles County,Unincorporated - Quartz Hill,,,,,,96748.0282580221,113624294.633979
+298,csa_unincorp_rancho_dominguez,Unincorporated Los Angeles County,Unincorporated - Rancho Dominguez,,,,,,41412.454709182,75301045.1061624
+299,csa_unincorp_roosevelt,Unincorporated Los Angeles County,Unincorporated - Roosevelt,,,,,,176707.434379563,1548670759.6273
+300,csa_unincorp_rosewood,Unincorporated Los Angeles County,Unincorporated - Rosewood,,,,,,7454.84862296414,2920804.99279565
+301,csa_unincorp_rosewood_east_gardena,Unincorporated Los Angeles County,Unincorporated - Rosewood/East Gardena,,,,,,21457.9564482864,27910549.3406022
+302,csa_unincorp_rosewood_west_rancho_dominguez,Unincorporated Los Angeles County,Unincorporated - Rosewood/West Rancho Dominguez,,,,,,15582.1700919015,12928298.5773157
+303,csa_unincorp_rowland_heights,Unincorporated Los Angeles County,Unincorporated - Rowland Heights,16.1,13.2,18.9,9.09493138299511,small area estimate,166251.82104936,528064171.23682
+304,csa_unincorp_san_francisquito_canyon_bouquet_canyon,Unincorporated Los Angeles County,Unincorporated - San Francisquito Canyon/Bouquet Canyon,,,,,,281054.291782996,1742100392.26524
+305,csa_unincorp_san_jose_hills,Unincorporated Los Angeles County,Unincorporated - San Jose Hills,,,,,,45350.162170097,42055863.6405072
+306,csa_unincorp_san_pasqual,Unincorporated Los Angeles County,Unincorporated - San Pasqual,,,,,,13947.6603723336,7135797.43285489
+307,csa_unincorp_sand_canyon,Unincorporated Los Angeles County,Unincorporated - Sand Canyon,,,,,,14262.3223550771,7408828.99823123
+308,csa_unincorp_santa_monica_mountains,Unincorporated Los Angeles County,Unincorporated - Santa Monica Mountains,,,,,,479520.449736097,-3167933071.00931
+309,csa_unincorp_saugus,Unincorporated Los Angeles County,Unincorporated - Saugus,,,,,,52300.2777222158,52787357.0916996
+310,csa_unincorp_saugus_canyon_country,Unincorporated Los Angeles County,Unincorporated - Saugus/Canyon Country,,,,,,68876.1725890128,135788472.911774
+311,csa_unincorp_south_antelope_valley,Unincorporated Los Angeles County,Unincorporated - South Antelope Valley,,,,,,112242.958767476,313370382.148594
+312,csa_unincorp_south_edwards,Unincorporated Los Angeles County,Unincorporated - South Edwards,,,,,,273111.938994576,2078932197.07609
+313,csa_unincorp_south_el_monte,Unincorporated Los Angeles County,Unincorporated - South El Monte,,,,,,8765.31837898899,3632134.65314042
+314,csa_unincorp_south_san_gabriel,Unincorporated Los Angeles County,Unincorporated - South San Gabriel,,,,,,58349.3569827004,39508075.6553567
+315,csa_unincorp_south_whittier,Unincorporated Los Angeles County,Unincorporated - South Whittier,10.6,8.4,12.8,10.5912423453759,small area estimate,77149.3791959405,149155948.890336
+316,csa_unincorp_southeast_antelope_valley,Unincorporated Los Angeles County,Unincorporated - Southeast Antelope Valley,,,,,,66116.6944812277,122088326.410448
+317,csa_unincorp_stevenson_ranch,Unincorporated Los Angeles County,Unincorporated - Stevenson Ranch,4.8,3.2,6.5,17.4053542916664,small area estimate,179210.443339479,1192509035.94853
+318,csa_unincorp_sun_village,Unincorporated Los Angeles County,Unincorporated - Sun Village,,,,,,86559.3395494007,310557090.935972
+319,csa_unincorp_sunrise_village,Unincorporated Los Angeles County,Unincorporated - Sunrise Village,,,,,,7924.98302337671,3193782.59369586
+320,csa_unincorp_twin_lakes_oat_mountain,Unincorporated Los Angeles County,Unincorporated - Twin Lakes/Oat Mountain,,,,,,136614.543621896,556636489.935456
+321,csa_unincorp_universal_city,Unincorporated Los Angeles County,Unincorporated - Universal City,,,,,,19224.875457479,14217113.0795923
+322,csa_unincorp_val_verde,Unincorporated Los Angeles County,Unincorporated - Val Verde,,,,,,106228.801736707,503715764.812298
+323,csa_unincorp_valinda,Unincorporated Los Angeles County,Unincorporated - Valinda,13.3,11,15.5,8.75175325627766,small area estimate,53029.145140811,56559115.8568582
+324,csa_unincorp_view_park_windsor_hills,Unincorporated Los Angeles County,Unincorporated - View Park/Windsor Hills,,,,,,36473.8349524222,51654041.154158
+325,csa_unincorp_walnut_park,Unincorporated Los Angeles County,Unincorporated - Walnut Park,,,,,,23856.9619436468,20867318.013584
+326,csa_unincorp_west_antelope_valley,Unincorporated Los Angeles County,Unincorporated - West Antelope Valley,,,,,,567543.702695535,6420997804.48047
+327,csa_unincorp_west_carson,Unincorporated Los Angeles County,Unincorporated - West Carson,11.2,8.6,13.7,11.6456972085495,small area estimate,58038.5798375307,69126891.0971537
+328,csa_unincorp_west_chatsworth,Unincorporated Los Angeles County,Unincorporated - West Chatsworth,,,,,,37475.8659701604,38709719.6368039
+329,csa_unincorp_west_la,Unincorporated Los Angeles County,Unincorporated - West LA,,,,,,29539.9577882081,25141186.1105254
+330,csa_unincorp_west_puente_valley,Unincorporated Los Angeles County,Unincorporated - West Puente Valley,,,,,,25813.861414173,22022481.2254682
+331,csa_unincorp_west_rancho_dominguez,Unincorporated Los Angeles County,Unincorporated - West Rancho Dominguez,,,,,,10403.5266580526,5118699.35640695
+332,csa_unincorp_west_whittier_los_nietos,Unincorporated Los Angeles County,Unincorporated - West Whittier/Los Nietos,11.4,8.9,13.8,11.0278270589092,small area estimate,73679.9444702104,72390428.1059818
+333,csa_unincorp_westhills,Unincorporated Los Angeles County,Unincorporated - Westhills,,,,,,11680.0040123007,6196785.44911921
+334,csa_unincorp_white_fence_farms,Unincorporated Los Angeles County,Unincorporated - White Fence Farms,,,,,,66613.112577071,160302070.165939
+335,csa_unincorp_whittier,Unincorporated Los Angeles County,Unincorporated - Whittier,,,,,,89526.1430799759,133796554.49313
+336,csa_unincorp_whittier_narrows,Unincorporated Los Angeles County,Unincorporated - Whittier Narrows,,,,,,73795.168919912,82963536.5871499
+337,csa_unincorp_willowbrook,Unincorporated Los Angeles County,Unincorporated - Willowbrook,14.8,12,17.5,9.55371643523086,small area estimate,71626.6131256524,96155440.5033342
+338,csa_unincorp_wiseburn,Unincorporated Los Angeles County,Unincorporated - Wiseburn,,,,,,18245.9906151407,12904383.1685887
+339,csa_unincorp_walnut,Unincorporated Los Angeles County,Unincorporated - Walnut,,,,,,42294.5654374712,3848120.05920836
+340,csa_unincorp_lennox,Unincorporated Los Angeles County,Unincorporated - Lennox,,,,,,33104.900896254,30553215.379441
+341,csa_unincorp_westfield_academy_hills,Unincorporated Los Angeles County,Unincorporated - Westfield/Academy Hills,,,,,,17831.6302743356,-14592671.8954768
+342,csa_unincorp_marina_del_rey,Unincorporated Los Angeles County,Unincorporated - Marina del Rey,,,,,,71324.3489531451,-24773351.7434983
+343,csa_unincorp_la_rambla,Unincorporated Los Angeles County,Unincorporated - La Rambla,,,,,,14131.4411356203,5867160.38532912
+344,csa_unincorp_palos_verdes_peninsula,Unincorporated Los Angeles County,Unincorporated - Palos Verdes Peninsula,,,,,,9338.43329730062,-4631360.39839118
+345,csa_unincorp_san_clemente_island,Unincorporated Los Angeles County,Unincorporated - San Clemente Island,,,,,,389210.434449327,1573236841.36336
+346,csa_unincorp_santa_catalina_island,Unincorporated Los Angeles County,Unincorporated - Santa Catalina Island,,,,,,415797.178012712,1999368372.11704
+347,csa_unincorp_kinneloa_mesa,Unincorporated Los Angeles County,Unincorporated - Kinneloa Mesa,,,,,,56562.9065902039,46820480.911401
+348,csa_unincorp_east_pasadena,Unincorporated Los Angeles County,Unincorporated - East Pasadena,,,,,,41021.8730825343,37146879.0528393
+377,la_city,Incorporated City,City of Los Angeles,14.2,12.8,15.6,4.94240116193774,small area estimate,1801593.40585362,-13190494161.3763
